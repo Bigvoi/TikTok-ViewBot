@@ -5,9 +5,9 @@ import requests
 import pyperclip
 import pyautogui
 
-lien = input("Link of your tiktok video : ")
+lien = input(https://vm.tiktok.com/ZMLbPGt9p/)
 
-for i in range (200):
+for i in range (21600):
 
     os.system("start tiktok")
     time.sleep(1)
